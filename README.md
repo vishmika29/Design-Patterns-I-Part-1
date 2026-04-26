@@ -18,5 +18,6 @@ public class A {
     }
 }
 
-<img width="607" height="250" alt="image" src="https://github.com/user-attachments/assets/a8e9fb1e-1775-4bd6-9d05-c9c05546f913" />
+<img width="607" height="250" alt="image" src="https://github.com/user-attachments/assets/9a6f8033-1539-4903-a291-8d2cc0445426" />
+
 
